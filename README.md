@@ -3,8 +3,6 @@
 ## Description:
 Build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
 
-Use the  to retrieve weather data for cities. The documentation includes a section called "How to start" that provides basic setup and usage instructions. 
-
    Requirements:
 * Weather dashboard with form inputs search for a city
 * Search history for current and future conditions for that city.
@@ -14,6 +12,7 @@ Use the  to retrieve weather data for cities. The documentation includes a secti
 * Click on a city in the search history presented with current and future conditions for that city
 
 ## Screenshot reference:
+<img width="1792" alt="Screen Shot 2020-11-07 at 6 19 10 PM" src="https://user-images.githubusercontent.com/68761490/98455465-d7070480-2125-11eb-8b89-951db57f36b4.png">
 
 ## BuiltWith:
 
