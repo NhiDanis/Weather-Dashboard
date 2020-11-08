@@ -21,6 +21,23 @@ h1{
     width: 100%;
 }
 
-h4 { margin-left: 20px;
+h2 { margin-left: 20px;
+    font-weight: bold;
 
+}
+
+h3{
+    float: left;
+}
+
+.fiveDay{
+    background-color: royalblue;
+    margin: 5px;
+
+}
+
+.mt-2{
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
 }
