@@ -24,7 +24,7 @@ Build a weather dashboard that will run in the browser and feature dynamically u
 * [OpenWeather API](https://openweathermap.org/api)
 
 ## Links:
-* [My Github Page]
+* [My Github Page](https://nhidanis.github.io/Weather-Dashboard/)
 
 
 
