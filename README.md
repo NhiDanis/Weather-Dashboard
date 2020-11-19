@@ -27,6 +27,10 @@ Build a weather dashboard that will run in the browser and feature dynamically u
 ## Links:
 * [My Github Page](https://nhidanis.github.io/Weather-Dashboard/)
 
+## Contact information:
+[Email](a.nhi1001@gmail.com)
+
+
 
 
 
